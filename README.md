@@ -1,7 +1,7 @@
 # making-stuff-awesome-docs
-A curated list of documents, written in Markdown, appicable to the makng stuff awesome webpage, for nerf.
+A curated list of documents, written in Markdown, appicable to the makng stuff awesome webpage, for n*rf blaster mods.
 
-Please see (Contributing)[docs/contribute.md] for how to help (and help is needed!)
+Please see [Contributing](docs/contribute.md) for how to help (and help is needed!)
 
 ##  Have other *Things* to add?  
 
@@ -25,10 +25,10 @@ Create a [Github pull request](https://guides.github.com/activities/hello-world/
 ## Links to Video channels by some members
 
 ### Making stuff awesome You Tube page
-(https://www.youtube.com/user/Ultrasonictwo)[https://www.youtube.com/user/Ultrasonictwo]
+[https://www.youtube.com/user/Ultrasonictwo](https://www.youtube.com/user/Ultrasonictwo)
 
 ### Airzone (aka Narfduino's) Youtube Channel
-(https://www.youtube.com/c/AirzonesBlasters/videos)[https://www.youtube.com/c/AirzonesBlasters/videos]
+[https://www.youtube.com/c/AirzonesBlasters/videos](https://www.youtube.com/c/AirzonesBlasters/videos)
 
 ---
 
@@ -41,10 +41,10 @@ Create a [Github pull request](https://guides.github.com/activities/hello-world/
 ---
 
 ## Other sections (To be Done)
-(I have no idea where to start page)[docs/noidea.md]
+[I have no idea where to start page](docs/noidea.md) (To be Done)
 
-FAQ (Frequently Asked Quesions)[docs/faq.md]
+FAQ [Frequently Asked Quesions](docs/faq.md)  (To be Done)
 
-(Build guides)[docs/buildg.md]
+[Build guides](docs/buildg.md)  (To be Done)
 
-(Basic theory behind brushless blasters and how they work)[docs/brushteory.md]
+[Basic theory behind brushless blasters and how they work](docs/brushteory.md)  (To be Done)
