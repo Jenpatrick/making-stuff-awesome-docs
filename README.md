@@ -1,3 +1,5 @@
+#  This is dead, fork or copy it, and take it over... I'm gonna delete it soon
+
 # making-stuff-awesome-docs
 A curated list of documents, written in Markdown, appicable to the makng stuff awesome webpage, for n*rf blaster mods.
 
